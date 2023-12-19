@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "pokemon-team-maker",
+    "private_key_id": "b7b7851ffd25144428caf684a4ecd83e449df69c",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvzv9ThpJBDH9h\n7CtfvGOCOiUhps+zzMu9umHz1hr4k8X5f1XfTnuPE0NTwTOwdk3qIGOHfQIIqywo\niBReL7s5OiWCnc6DwXbq5TkTYb/X+OjFYwOvPfutzjAh21ghLL948C3fHMP3yDuP\nQM47xESg/T7WkpPFjE1mwrTIgl6naeUKDqTvmZeIw52Rl0T2Q+7QP17aV3pHLS5M\n+cOS+TXoELua/SNWJ21OcwdAiWao2lkEOSFA/hcimGgldPnl83zx9UttouST3W/l\nQyHjGoPkINq0HfY8S8Sn1yP8smE7lrGDUGqhmtV5VFhJuGpY/vRFwaydCBM5S9w4\n6zgk77eJAgMBAAECggEAA7Cs/7/dCb7zLm/Eu6kxw4F/v8AeuvK5usjkUKDHhyWK\niQdXg5WhFsHB4yepCsTXeTAsZS7GN5BFq2rZnGnDbiCqRYdbEQMuxwlRq7CcsXfb\ntAFMif/hSbgjcGeT/jRzSgtVQyczdf6+tUrphlqgIw3VAiQRNGyHEWGbIEUEn4Ey\nFqLCczv15x5yXcQSSbkkJLlRK81hPS+Pdmz1FzR58tEXyw76hnKmQ1ldr3jrc7xN\nfaFkSIYRzCtO+2f+3wPDbfA4TnrsETVxbP5sNrMM0TxK4AmPvvNsDUPwbEJNUfYl\nVH4YDxERI8sSPD6Rt9oQfer+bVYl+/mQgQx0FhYNCQKBgQDhHnIJXz4y08azSCKI\n/PGzamMX9EpS5uXZJxRsvRXv4a2CWpS6Lh8FbfJRAHKbbX6Y0hITrkE4iTy9coBe\nRNOTkqR4Xq0RmofWjtZFIo2XjyJ6DTjApEGP/JB8yjZPC8AxzNbyEEsg2c+0f4Y1\n5/asyS4tzKxX9pwBAl1+1gGwdQKBgQDH7OiulM5lT0kxvorlT1A+WZFzIFnamvaj\naA2Tk3QxY6RsZJir9IsNY7KOLxeG51HhC/+H6Jm0RGiBSzDjG4VSdySN5rpoEWPt\n3W2TmZBWaob201OGA1JagYGamTRw4W17sb43srogN0uv9GBHzWeZ1whjQGt9jaJ1\n/Io/VimIRQKBgQCVGkQvnuykX44YyqtNDjPMQKeXgw8DL7mHBZJKn0Z7Vn9EelhN\npCSZxQOc0O4XsgMKlwCwFldOad9YHxGU3oNAF/1lWFfK9A4KdxrGOaeMfZo5Oq6f\nMWvXQVI1xP0Jh9/pXCH1vAL2pC0lAN3UsGm6cZlrbkesD0Oui3F/g6EkzQKBgASm\nKbMFmtcYROd3OtuiQIdypcM7mVtQBzQ9kzM/VpBfdM9gd3xoL2OcUeakibOFZY4K\nLWMHsatTe+qlyPk/BpaoVp1GJEePP/ekEoxAIe8ggwryVxrisOOR52Wk8mc9lsIt\nm/LHoTRmlMf+ss54pFQbgAJu2REOXhzIRp66bjTRAoGBAKqruS4YN2FTnDaxD3jY\nxmmJS3+bhgPEOnrVXnqule70w3UuaFXszzyYCUrPCgFg7nwMasLOrX9ew+lQFXvX\n+BK1O5XIe0bVHVfRE6D5XEiIFdUJvEvVTV6jTX1ctcNdAMCFcQTTQrERjdYf/pFU\nHSh1S5k1vdYQD+VnvQSGeKQp\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-z8qoh@pokemon-team-maker.iam.gserviceaccount.com",
+    "client_id": "100492536536885118002",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-z8qoh%40pokemon-team-maker.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
